@@ -316,12 +316,6 @@ BossAssistant 是辅助工具，不提供也不鼓励任何绕过平台规则的
 
 这个项目诞生于真实求职场景中的重复劳动：筛选岗位、记录状态、整理回复。希望它也能给正在认真找工作的你一点点帮助。
 
-## ⭐ Star History
-
-如果这个项目对你有帮助，欢迎点亮 Star 支持一下！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=CSUlyc/BossAssistant&type=Date)](https://star-history.com/#CSUlyc/BossAssistant&Date)
-
 ## License
 
 本项目使用 [MIT License](./LICENSE)。Copyright (c) 2026 CSUlyc。
