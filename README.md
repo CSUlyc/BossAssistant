@@ -6,11 +6,11 @@
 
 让高频、重复、容易漏记的求职动作变得可控、可追踪、可暂停。
 
-[![Chrome MV3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=222)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)](#)
-[![Local First](https://img.shields.io/badge/Privacy-Local%20First-22A06B?style=flat-square)](#)
+[![Chrome MV3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/mv3/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=222)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
+[![MIT License](https://img.shields.io/badge/License-MIT-22A06B?style=flat-square)](./LICENSE)
 
 </div>
 
@@ -47,14 +47,14 @@
 
 ## 预览
 
-> 建议上传 GitHub 前补充 2-4 张截图到 `docs/images/`，例如：设置页、职位列表控制台、投递记录、聊天页回复草稿。
-
 | 界面 | 看点 |
 | --- | --- |
 | 设置中心 | 自我介绍、关键词、城市、HR 活跃、每日上限、简历资料、回复风格 |
 | 投递控制台 | 运行状态、处理数、新投递数、跳过数、失败数、岗位结果、操作日志 |
 | 投递记录 | 日期筛选、自动刷新、新投递 / 已沟通统计、CSV 导出 |
 | 回复助手 | HR 问题、问题类型、参考简历资料、回复草稿、复制 / 填入 |
+
+> 截图可放到 `docs/images/` 目录并在上方表格中引用。
 
 ## 快速开始
 
@@ -336,4 +336,4 @@ BossAssistant 是辅助工具，不提供也不鼓励任何绕过平台规则的
 
 ## License
 
-当前项目未附带正式开源许可证。上传 GitHub 前，建议根据你的发布目标补充 `LICENSE` 文件，例如 MIT、Apache-2.0 或保留全部权利。
+本项目使用 [MIT License](./LICENSE)。Copyright (c) 2026 CSUlyc。
