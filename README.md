@@ -11,8 +11,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
 [![MIT License](https://img.shields.io/badge/License-MIT-22A06B?style=flat-square)](./LICENSE)
+[![Stars](https://img.shields.io/github/stars/CSUlyc/BossAssistant?style=flat-square&logo=github&color=f5c542)](https://github.com/CSUlyc/BossAssistant/stargazers)
 
 </div>
+
+> 💡 **如果这个项目帮到了你，请点个 Star ⭐ 支持一下！** 你的 Star 是这个开源项目持续维护的最大动力。
 
 ---
 
@@ -312,6 +315,12 @@ BossAssistant 是辅助工具，不提供也不鼓励任何绕过平台规则的
 ## 致谢
 
 这个项目诞生于真实求职场景中的重复劳动：筛选岗位、记录状态、整理回复。希望它也能给正在认真找工作的你一点点帮助。
+
+## ⭐ Star History
+
+如果这个项目对你有帮助，欢迎点亮 Star 支持一下！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CSUlyc/BossAssistant&type=Date)](https://star-history.com/#CSUlyc/BossAssistant&Date)
 
 ## License
 
