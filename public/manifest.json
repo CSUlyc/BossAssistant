@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "BossAssistant",
+  "description": "Boss 简历投递助手：识别 BOSS 直聘职位列表页和聊天页，为后续筛选、投递记录和 AI 回复提供基础能力。",
+  "version": "0.5.0",
+  "action": {
+    "default_title": "BossAssistant",
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "background": {
+    "service_worker": "assets/background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.zhipin.com/*"],
+      "js": ["assets/content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": ["storage", "tabs"],
+  "host_permissions": ["https://www.zhipin.com/*"]
+}
