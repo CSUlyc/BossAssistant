@@ -201,7 +201,9 @@ BossAssistant/
 
 ## 架构设计
 
-！[架构设计](./docs/images/架构图.png)
+## 架构设计
+
+![架构设计](./docs/images/架构图.png)
 
 ### 构建管线
 
